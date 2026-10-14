@@ -1,4 +1,4 @@
-console.log("My reflection during intrams");
+console.log("My reflection during intrams:");
 
 console.log(`During the intramural, I cheered for my friends good performance by watching them play different games such as futsal, badminton, and basketball. Each game had its own share of excitement because of the efforts of the players to be on top. It was interesting to witness their game strategies and sportsmanlike attitudes during the competition. And I got the chance to watch the e-sport Mobile Legends. This activity was fun because I was able to view a different kind of competition through a screen. However, just like the other games, Mobile Legends still portrays the same sportswomen and men's spirit and collaboration.
 
